@@ -1,0 +1,27 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #0d0d0d;
+  color: #ffffff;
+}
+#contact {
+  background-color: #383838;
+  color: #ffffff;
+}
+#skills {
+  background-color: #383838;
+}
+.bg-cover {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-tabs .nav-item {
+  width: calc(100% / 5);
+}
+.nav-tabs .nav-link {
+  width: calc(100%);
+  text-align: center;
+}
